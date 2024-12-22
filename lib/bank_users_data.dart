@@ -1,4 +1,4 @@
-import 'package:bank_account/bank_account.dart';
+import 'package:bank_account/bank_account_model.dart';
 
 List<BankAccount> bankUsers = [
   BankAccount("A123"),

@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:bank_account/bank_account.dart';
+import 'package:bank_account/bank_account_model.dart';
 
 void withDrawCase(BankAccount bankAccount) {
    print("please Enter the amount");

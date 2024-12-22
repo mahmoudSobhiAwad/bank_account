@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:bank_account/bank_account.dart';
+import 'package:bank_account/bank_account_model.dart';
 import 'package:bank_account/bank_users_data.dart';
 
 BankAccount? checkAccountId() {
